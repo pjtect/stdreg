@@ -1,0 +1,2 @@
+# stdreg
+Students registration
